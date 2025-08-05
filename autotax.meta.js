@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         autotax
 // @namespace    http://tampermonkey.net/
-// @version      1.25.8.5
-// @description  try to take over the world!
+// @version      1.25.8.6
+// @description  try it!
 // @author       You
 // @match        https://*.shanghai.chinatax.gov.cn:8443/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chinatax.gov.cn
