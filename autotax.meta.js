@@ -14,6 +14,6 @@
 // @grant        GM_xmlhttpRequest
 // @connect      *
 // @run-at       document-end
-// @updateURL    https://raw.githubusercontent.com/a1958/tax/refs/heads/main/autotax.meta.js
-// @downloadURL  https://raw.githubusercontent.com/a1958/tax/refs/heads/main/autotax.js
+// @updateURL    https://raw.githubusercontent.com/a1958/tax/main/autotax.meta.js
+// @downloadURL  https://raw.githubusercontent.com/a1958/tax/main/autotax.js
 // ==/UserScript==
